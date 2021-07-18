@@ -1,0 +1,8 @@
+.nav-font {
+  background-color: none;
+  text-decoration: none;
+}
+
+.log:hover {
+  transform: scale(1.05);
+}
